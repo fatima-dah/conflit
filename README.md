@@ -1,2 +1,2 @@
-# conflit
+REMOTE
 bonjour tu va bien ?
